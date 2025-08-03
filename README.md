@@ -1,0 +1,2 @@
+# Google-Ads-Opportunity-Lost-Dashboard-using-Looker-Studio
+This project presents an interactive Google Ads Opportunity Lost Dashboard built in Looker Studio. The dashboard analyzes missed impressions, clicks, conversions, and revenue due to budget limitations and low ad rank (bidding/quality score), helping marketers and analysts find high-impact optimization opportunities for Google Ads campaigns.
