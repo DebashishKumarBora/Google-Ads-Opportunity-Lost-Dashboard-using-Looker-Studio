@@ -39,17 +39,14 @@ Data sourced from **Google Ads API** includes:
 ---
 
 ## 📊 Dashboard Preview  
-![Campaign-Level Analysis](Screenshot_2025-08-03_200547.png)  
-*(Budget vs. Bid loss comparison by campaign)*  
+<img width="827" height="775" alt="Screenshot 2025-08-03 200538" src="https://github.com/user-attachments/assets/1550fa25-0865-4a94-a20c-ec7f98121504" />
+<img width="842" height="802" alt="Screenshot 2025-08-03 200547" src="https://github.com/user-attachments/assets/c7055947-fb50-417c-adda-2af9f8563792" />
+<img width="838" height="541" alt="Screenshot 2025-08-03 200354" src="https://github.com/user-attachments/assets/d893fafa-1b0a-432e-99ee-8934bb7bf240" />
+<img width="841" height="763" alt="Screenshot 2025-08-03 200421" src="https://github.com/user-attachments/assets/1dcb4086-7142-4470-8fda-a702eea200e5" />
+<img width="818" height="781" alt="Screenshot 2025-08-03 200454" src="https://github.com/user-attachments/assets/67014740-1949-4b85-8fda-d0a3ae31e1c4" />
+<img width="819" height="783" alt="Screenshot 2025-08-03 200515" src="https://github.com/user-attachments/assets/09717cae-d042-45b3-83cd-3d8aef71889f" />
+<img width="817" height="712" alt="Screenshot 2025-08-03 200522" src="https://github.com/user-attachments/assets/ae27c857-e0e6-4953-b294-8107d114464e" />
 
-![Budget Trends](Screenshot_2025-08-03_200522.png)  
-*(Day-wise impression share and revenue loss)*  
-
-![Device Breakdown](Screenshot_2025-08-03_200454.png)  
-*(Mobile devices contribute to 80% of budget-related losses)*  
-
-![Geo Performance](Screenshot_2025-08-03_200421.png)  
-*(London drives highest conversions: 1.9K)*  
 
 ---
 
