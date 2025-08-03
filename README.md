@@ -42,7 +42,6 @@ Data sourced from **Google Ads API** includes:
 <img width="838" height="541" alt="Screenshot 2025-08-03 200354" src="https://github.com/user-attachments/assets/d67c0281-f140-4b15-826e-57b19cbee5a9" />
 <img width="841" height="763" alt="Screenshot 2025-08-03 200421" src="https://github.com/user-attachments/assets/e01a3186-0022-4fae-9ed9-7bc877b98f3b" />
 <img width="818" height="781" alt="Scre<img width="819" height="783" alt="Screenshot 2025-08-03 200515" src="https://github.com/user-attachments/assets/ae49aef4-d5ed-413d-85cb-9d08ba5bfbce" />
-enshot 2025-08-03 200454" src="https://github.com/user-attachments/assets/1527313f-d0a5-4672-ba28-c0b966d9a1e3" />
 <img width="817" height="712" alt="Screenshot 2025-08-03 200522" src="https://github.com/user-attachments/assets/b20cb67c-8257-4393-9ef8-4b1aead619c1" />
 <img width="842" height="802" alt="Screenshot 2025-08-03 200547" src="https://github.com/user-attachments/assets/505e46b6-acce-462c-8f62-39448fa9c1a8" />
 
