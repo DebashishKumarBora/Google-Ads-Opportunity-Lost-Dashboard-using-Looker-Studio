@@ -83,6 +83,7 @@ Data sourced from **Google Ads API** includes:
 
 ---
 
-## 🌐 Connect  
-**LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
-**GitHub**: [@YourHandle](https://github.com/yourprofile)  
+## 🌐 Connect with Me
+- **LinkedIn:** [Debashish Kumar Bora](https://www.linkedin.com/in/debashishkumarbora)
+- **GitHub:** [DebashishKumarBora](https://github.com/DebashishKumarBora)
+
